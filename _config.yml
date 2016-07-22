@@ -68,6 +68,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://skirki_@bitbucket.org/skirki_/hexo_heroku.git
-  branch: master
+  type: heroku
+  repo: https://github.com/Five555/hexo_heroku.git
+  message: deploy
